@@ -27,7 +27,7 @@ function timeSince(date) {
 	/*if(Math.floor(seconds) >= 5)
 		return Math.floor(seconds) + " seconds";*/
 	else
-		return "（づ￣3￣）づ╭❤～  刷新时间 " + dateFormat("HH:MM:SS", date);
+		return " 海深路遥 星辰大海 " + dateFormat("HH:MM:SS", date);
 }
 
 function dateFormat(fmt, date) {
